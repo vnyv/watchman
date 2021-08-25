@@ -1,0 +1,23 @@
+{
+  "name": "watchman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnyv/watchman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnyv/watchman/issues"
+  },
+  "homepage": "https://github.com/vnyv/watchman#readme",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "node-watch": "^0.7.1"
+  }
+}
